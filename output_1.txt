@@ -1,0 +1,91 @@
+
+
+				===============================================
+					Movie Ticket Booking System
+
+				===============================================
+Press <1> View All Movies
+Press <2> Insert Movie
+Press <3> Book Ticket
+Press <4> View All Transactions
+Press <5> Delete Files
+Press <0> Exit
+Enter your Choice: 2
+
+Enter movie code: 121
+Enter name: RRR
+Enter ticket price: 500
+
+Record inserted successfully into the file
+				===============================================
+					Movie Ticket Booking System
+
+				===============================================
+Press <1> View All Movies
+Press <2> Insert Movie
+Press <3> Book Ticket
+Press <4> View All Transactions
+Press <5> Delete Files
+Press <0> Exit
+Enter your Choice: 2
+
+Enter movie code: 122
+Enter name: Ved
+Enter ticket price: 400
+
+Record inserted successfully into the file
+				===============================================
+					Movie Ticket Booking System
+
+				===============================================
+Press <1> View All Movies
+Press <2> Insert Movie
+Press <3> Book Ticket
+Press <4> View All Transactions
+Press <5> Delete Files
+Press <0> Exit
+Enter your Choice: 3
+[H[2J[3J121 RRR 500
+122 Ved 400
+
+For booking ticket, enter the movie code (first letter of the movie): Ved
+[H[2J[3J
+
+* Fill Details *
+Your name: Shrutika
+Mobile number (10 digits only): 3678927383
+Total number of tickets: 5
+
+* ENJOY THE MOVIE **
+
+		Name: Shrutika
+		Mobile Number: 3678927383
+		Movie Name: Ved
+		Total Seats: 5
+		Cost per Ticket: 400
+		Total Amount: 2000
+Record inserted successfully into the old record file
+				===============================================
+					Movie Ticket Booking System
+
+				===============================================
+Press <1> View All Movies
+Press <2> Insert Movie
+Press <3> Book Ticket
+Press <4> View All Transactions
+Press <5> Delete Files
+Press <0> Exit
+Enter your Choice: 4
+[H[2J[3JShrutika 3678927383 5 2000 Ved 400
+
+				===============================================
+					Movie Ticket Booking System
+
+				===============================================
+Press <1> View All Movies
+Press <2> Insert Movie
+Press <3> Book Ticket
+Press <4> View All Transactions
+Press <5> Delete Files
+Press <0> Exit
+Enter your Choice: 
